@@ -1,6 +1,6 @@
 # validationdemo
 
 #### Required Fields
-#### @InıtBinder
+#### @InitBinder
 #### RegularExpressions
 #### Custom Validation
